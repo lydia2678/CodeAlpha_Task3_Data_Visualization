@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Do NOT ignore these important project files:
+# *.csv (datasets)
+# *.png (charts and visualizations)
+# *.py (Python source code)
+# *.md (documentation)
+# *.txt (requirements and insights)
